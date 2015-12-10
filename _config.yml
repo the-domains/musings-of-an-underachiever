@@ -1,0 +1,28 @@
+name: musings of an underachiever
+favicon: null
+layout_spectrum: 0.2906944272108376
+typography_spectrum: 0.8547690738923848
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.23562612431123853
+  lightness: 0.5574423838406801
+  saturation: 0.058672906598076224
+  rhythmicContrast: 0.2331534291151911
+purpose: []
