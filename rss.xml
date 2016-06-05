@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[musings of an underachiever]]></title>
-        <description><![CDATA[musings of an underachiever]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[underachiever's musings.]]></title>
+        <description><![CDATA[underachiever's musings.]]></description>
+        <link>https://thegrid.ai/musings-of-an-underachiever/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 05:27:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 05 Jun 2016 22:09:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/musings-of-an-underachiever/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>"I remember what the Internet was like before it was being watched, and there's never been anything in the history of man that's like it. I mean, you could have children from one part of the world having an equal discussion where you know they were sort of granted the same respect for their ideas and conversation, with experts in a field from another part of the world, on any topic, anywhere, anytime, all the time. And it was free and unrestrained." - Edward Snowden</p>]]></description>
+            <link>https://thegrid.ai/musings-of-an-underachiever/i-remember-what-the-internet-was-like-before-it-was-being-w/index.html</link>
+            <guid isPermaLink="false">35208a41-6172-4b00-bfbf-cafa61f82da6</guid>
+            <pubDate>Sun, 05 Jun 2016 22:09:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Alexander Pope Quotes at BrainyQuote]]></title>
             <description><![CDATA[<article><h1>Alexander Pope Quotes at BrainyQuote</h1><p>Enjoy the best Alexander Pope Quotes at BrainyQuote. Quotations by Alexander Pope, English Poet, Born May 21, 1688. Share with your friends.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a23fefefee3a0dfc320d81b1468f930101bed27e.jpg"></article>]]></description>
